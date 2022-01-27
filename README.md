@@ -20,4 +20,4 @@
 
 ### My favorite repositories
 <a href="https://github.com/thiagoacmonteiro/cryptocurr"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=merko"/>
-<a href="https://github.com/thiagoacmonteiro/aluracord"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord&theme=merko"/>
+<a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=merko"/>

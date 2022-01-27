@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/thiagoacmonteiro">
-  <img height="165px" margin-right="100px" src="https://github-readme-stats.vercel.app/api?username=thiagoacmonteiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoacmonteiro&layout=compact&langs_count=7&theme=merko"/>
+  <img height="165px" margin-right="100px" src="https://github-readme-stats.vercel.app/api?username=thiagoacmonteiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoacmonteiro&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   
   ##
  
@@ -19,6 +19,6 @@
 </div>
 
 ### My favorite repositories
-<a href="https://github.com/thiagoacmonteiro/cryptocurr"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=merko"/>
-<a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=merko"/>
-<a href="https://github.com/thiagoacmonteiro/Trybe-exercises"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=Trybe-exercises&theme=merko"/>
+<a href="https://github.com/thiagoacmonteiro/cryptocurr"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
+<a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
+<a href="https://github.com/thiagoacmonteiro/Trybe-exercises"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=Trybe-exercises&theme=chartreuse-dark"/>

@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/thiagoacmonteiro">
-  <img height="165px" margin-right="10px" src="https://github-readme-stats.vercel.app/api?username=thiagoacmonteiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="165px" margin-right="100px" src="https://github-readme-stats.vercel.app/api?username=thiagoacmonteiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoacmonteiro&layout=compact&langs_count=7&theme=merko"/>
   
   ##

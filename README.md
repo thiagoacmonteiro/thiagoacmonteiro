@@ -1,11 +1,7 @@
 ### Welcome to my Github! Feel free to snoop it. 🦝 
 
 - 🔭 I’m currently close to finish Trybe course (Full Stack Web Development) and looking for an international Web Development Job
-- 📕 I'm certified in: 
-  - <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
-  - <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
-  - <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
-  - <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">REACT js (Redux and Context)
+- 📕 I'm certified in: <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML, <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS, <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript, <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">REACT js (Redux and Context)
 - 📖 I’m currently learning SQL at Trybe course
 
 <div align="center">

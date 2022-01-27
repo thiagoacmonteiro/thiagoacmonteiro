@@ -7,7 +7,6 @@
   - <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
   - <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">REACT js (Redux and Context)
 - 📖 I’m currently learning SQL at Trybe course
-- 😄 Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/thiagoacmonteiro">

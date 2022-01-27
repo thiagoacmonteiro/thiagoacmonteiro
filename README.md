@@ -4,7 +4,6 @@
 - 📕 I'm certified in: HTML, CSS, JavaScript, REACT js (Redux and Context)
 - 📖 I’m currently learning SQL
 - 😄 Pronouns: he/his
-- 
 
 <div align="center">
   <a href="https://github.com/thiagoacmonteiro">

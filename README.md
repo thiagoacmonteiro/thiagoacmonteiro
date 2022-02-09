@@ -12,7 +12,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/thiagoacmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-outlook-%230077B5?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiagoacmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/thiagoacmonteiro/thiagoacmonteiro/blob/output/github-contribution-grid-snake.svg)
  

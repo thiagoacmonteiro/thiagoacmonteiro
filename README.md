@@ -16,7 +16,7 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/thiagoacmonteiro/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579998312859)
+  <a href="whatsapp://send?text=TITULO &ndash; LINK" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>
   <a href="mailto:thiagoacmonteiro@outlook.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-  badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/thiagoacmonteiro/thiagoacmonteiro/blob/output/github-contribution-grid-snake.svg)

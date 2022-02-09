@@ -24,7 +24,7 @@
 <a href="https://github.com/thiagoacmonteiro/recipes-app"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
   
   
-<p>https://my-tunes-omega.vercel.app</p>
+https://my-tunes-omega.vercel.app
 <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
   
   ##

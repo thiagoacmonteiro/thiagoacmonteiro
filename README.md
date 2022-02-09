@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to my Github! Feel free to snoop it. 🦝</h1> 
+  <h2>Welcome to my Github! Feel free to snoop it. 🦝</h2> 
 </div>
 
 - 🔭 I’m currently close to finish Trybe course (Full Stack Web Development) and looking for an international Web Development Job

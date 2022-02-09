@@ -20,21 +20,27 @@
 
 # My favorite repositories
 ## Click on the link to go to the page or on the container to go to the repository
-<p>https://recipes-app-dusky-sigma.vercel.app</p>
+    
+https://recipes-app-dusky-sigma.vercel.app
+    
 <a href="https://github.com/thiagoacmonteiro/recipes-app"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
-  
+ 
+  ##
   
 https://my-tunes-omega.vercel.app
+  
 <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
   
   ##
   
-<p>https://aluracord-matrix-two-gules.vercel.app</p>
+https://aluracord-matrix-two-gules.vercel.app
+  
 <a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
   
   ##
   
-<p>https://thiagoacmonteiro.github.io/crypto_curr</p>
+https://thiagoacmonteiro.github.io/crypto_curr
+  
 <a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
   
   ##

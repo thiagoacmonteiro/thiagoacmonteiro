@@ -15,8 +15,8 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/thiagoacmonteiro/" target="_blank"><img height="150px" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:thiagoacmonteiro@outlook.com" target="_blank"><img height="150px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-  badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiagoacmonteiro/" target="_blank"><img height="50px" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:thiagoacmonteiro@outlook.com" target="_blank"><img height="50px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-  badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/thiagoacmonteiro/thiagoacmonteiro/blob/output/github-contribution-grid-snake.svg)
  

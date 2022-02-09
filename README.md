@@ -4,9 +4,9 @@
 
   ##
 
-- 🔭 I’m currently close to finish Trybe course (Full Stack Web Development) and looking for an international Web Development Job
+- 🔭 I’m currently close to finish Trybe course (Full Stack Web Development) and looking for a job, preferencially an international Web Development Job
 - 📕 I'm certified in: <img align="center" alt="Thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Thiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Thiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Thiago-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> <img align="center" alt="Thiago-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-- 📖 I’m currently learning SQL at Trybe course
+- 📖 I’m currently learning NodeJS at Trybe course
 
 <div align="center">
   <img height="165px" margin-right="100px" src="https://github-readme-stats.vercel.app/api?username=thiagoacmonteiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>

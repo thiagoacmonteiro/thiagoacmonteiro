@@ -2,6 +2,8 @@
   <h2>Welcome to my Github! Feel free to snoop it. 🦝</h2> 
 </div>
 
+  ##
+
 - 🔭 I’m currently close to finish Trybe course (Full Stack Web Development) and looking for an international Web Development Job
 - 📕 I'm certified in: <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">(Redux and Context)
 - 📖 I’m currently learning SQL at Trybe course
@@ -13,8 +15,8 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/thiagoacmonteiro/" target="_blank"><img width="500px" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:thiagoacmonteiro@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-  badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiagoacmonteiro/" target="_blank"><img height="150px" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:thiagoacmonteiro@outlook.com" target="_blank"><img height="150px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-  badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/thiagoacmonteiro/thiagoacmonteiro/blob/output/github-contribution-grid-snake.svg)
  

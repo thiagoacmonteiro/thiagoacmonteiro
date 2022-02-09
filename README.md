@@ -19,6 +19,8 @@
 </div>
 
 ### My favorite repositories
+## Click on the link to go to the page or on the container to go to the repository     
+<a href="https://github.com/thiagoacmonteiro/recipes-app"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
 <a href="https://github.com/thiagoacmonteiro/recipes-app"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
 <a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
 <a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>

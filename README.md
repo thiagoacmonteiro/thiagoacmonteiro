@@ -28,4 +28,5 @@
 <a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
 <p>https://thiagoacmonteiro.github.io/crypto_curr</p>
 <a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
+#### This repository has no page because it's just practice exercises
 <a href="https://github.com/thiagoacmonteiro/Trybe-exercises"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=Trybe-exercises&theme=chartreuse-dark"/>

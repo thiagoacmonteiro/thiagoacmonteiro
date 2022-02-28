@@ -25,30 +25,32 @@
 
 # My favorite repositories
 ## Click on the link to go to the page or on the container to go to the repository
-    
-https://recipes-app-dusky-sigma.vercel.app
-    
-<a href="https://github.com/thiagoacmonteiro/recipes-app"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
- 
-  ##
+<div>
   
-https://aluracord-matrix-two-gules.vercel.app
-  
-<a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
-  
-  ##
-  
-https://thiagoacmonteiro.github.io/crypto_curr
-  
-<a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
-  
-  ##
-  
-https://my-tunes-omega.vercel.app
-  
-<a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
-  
-  ##
+  https://recipes-app-dusky-sigma.vercel.app
+
+  <a href="https://github.com/thiagoacmonteiro/recipes-app"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
+
+    ##
+
+  https://aluracord-matrix-two-gules.vercel.app
+
+  <a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
+
+    ##
+
+  https://thiagoacmonteiro.github.io/crypto_curr
+
+  <a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
+
+    ##
+
+  https://my-tunes-omega.vercel.app
+
+  <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
+</div>  
+
+    ##
   
 #### This repository has no page because it's just practice exercises
 <a href="https://github.com/thiagoacmonteiro/Trybe-exercises"><img width="550em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=Trybe-exercises&theme=chartreuse-dark"/>

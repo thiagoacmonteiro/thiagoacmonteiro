@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <h2>Welcome to my Github! Feel free to snoop it. 🦝</h2> 
 </div>
 

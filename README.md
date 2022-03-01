@@ -25,7 +25,7 @@
 
 # My favorite repositories
 ## Click on the link to go to the page or on the container to go to the repository
-<div clear="left" width="50%">
+<div align="left" width="50%">
   
   https://recipes-app-dusky-sigma.vercel.app
 

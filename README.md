@@ -25,7 +25,7 @@
 
 # My favorite repositories
 ## Click on the link to go to the page or on the container to go to the repository
-<div align="left" width="50%">
+<div align="left" width="300em">
   
   https://recipes-app-dusky-sigma.vercel.app
 
@@ -48,7 +48,7 @@
   https://my-tunes-omega.vercel.app
 
   <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
-</div><div align="right" width="50%">
+</div><div align="right" width="300em">
   
   https://recipes-app-dusky-sigma.vercel.app
 

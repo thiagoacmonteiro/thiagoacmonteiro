@@ -30,9 +30,9 @@
     <p width="300em"></p>
   <a width="300em" href="https://github.com/thiagoacmonteiro/recipes-app"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
     <p width="300em"></p>
-  <a width="300em" href="https://aluracord-matrix-two-gules.vercel.app">teste
+  <a align="right" width="300em" href="https://aluracord-matrix-two-gules.vercel.app">teste
     <p width="300em"></p>
-  <a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
+  <a align="right" href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
     <p width="300em"></p>
   <a width="300em" href="https://thiagoacmonteiro.github.io/crypto_curr">teste
     <p width="300em"></p>

@@ -27,21 +27,35 @@
 ## Click on the link to go to the page or on the container to go to the repository
 <div align="left" width="300em">  
   <a width="300em" href="https://recipes-app-dusky-sigma.vercel.app">teste
+    <p width="300em"></p>
   <a width="300em" href="https://github.com/thiagoacmonteiro/recipes-app"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
+    <p width="300em"></p>
   https://aluracord-matrix-two-gules.vercel.app
+    <p width="300em"></p>
   <a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
+    <p width="300em"></p>
   https://thiagoacmonteiro.github.io/crypto_curr
+    <p width="300em"></p>
   <a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
+    <p width="300em"></p>
   https://my-tunes-omega.vercel.app
+    <p width="300em"></p>
   <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
 </div><div align="right" width="300em">  
   https://recipes-app-dusky-sigma.vercel.app
+    <p width="300em"></p>
   <a href="https://github.com/thiagoacmonteiro/recipes-app"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
+    <p width="300em"></p>
   https://aluracord-matrix-two-gules.vercel.app
+    <p width="300em"></p>
   <a href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
+    <p width="300em"></p>
   https://thiagoacmonteiro.github.io/crypto_curr
+    <p width="300em"></p>
   <a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
+    <p width="300em"></p>
   https://my-tunes-omega.vercel.app
+    <p width="300em"></p>
   <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
 </div>  
   

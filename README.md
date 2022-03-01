@@ -25,7 +25,7 @@
 
 # My favorite repositories
 ## Click on the link to go to the page or on the container to go to the repository
-<div align="left" width="300em">  
+<div align="left" width="300px">  
   <a width="300em" href="https://recipes-app-dusky-sigma.vercel.app">teste
     <p width="300em"></p>
   <a width="300em" href="https://github.com/thiagoacmonteiro/recipes-app"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>

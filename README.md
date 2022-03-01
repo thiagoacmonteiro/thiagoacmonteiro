@@ -29,24 +29,24 @@
  
 https://recipes-app-dusky-sigma.vercel.app
   
-<a width="300em" href="https://github.com/thiagoacmonteiro/recipes-app"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
+<a width="300em" href="https://github.com/thiagoacmonteiro/recipes-app"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=recipes-app&theme=chartreuse-dark"/>
   
 
 https://aluracord-matrix-two-gules.vercel.app
 
-<a align="right" href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
+<a align="right" href="https://github.com/thiagoacmonteiro/aluracord-matrix"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=aluracord-matrix&theme=chartreuse-dark"/>
   
 
 https://thiagoacmonteiro.github.io/crypto_curr
 
-<a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
+<a href="https://github.com/thiagoacmonteiro/cryptocurr"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=cryptocurr&theme=chartreuse-dark"/>
   
 
 https://my-tunes-omega.vercel.app
 
-<a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
+<a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
   
 #
   
-#### My repository containing the exercises I've been doing at Trybe course so far
+# My repository containing the exercises I've been doing at Trybe course so far
 <a href="https://github.com/thiagoacmonteiro/Trybe-exercises"><img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=Trybe-exercises&theme=chartreuse-dark"/>

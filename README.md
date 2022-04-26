@@ -54,4 +54,4 @@ https://my-tunes-omega.vercel.app
   
 # My main Back-End repositories
   
-<a width="300em" href="https://github.com/thiagoacmonteiro/recipes-app"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=project-store-manager&theme=chartreuse-dark"/>
+<a width="300em" href="https://github.com/thiagoacmonteiro/project-store-manager"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=Store Manager&theme=chartreuse-dark"/>

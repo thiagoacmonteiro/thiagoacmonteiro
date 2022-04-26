@@ -48,9 +48,4 @@ https://thiagoacmonteiro.github.io/crypto_curr
 https://my-tunes-omega.vercel.app
 
 <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
-  
-#
-#
-  
-# My repository containing the exercises I've been doing at Trybe course so far
-<a href="https://github.com/thiagoacmonteiro/Trybe-exercises"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=Trybe-exercises&theme=chartreuse-dark"/>
+

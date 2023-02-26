@@ -4,9 +4,8 @@
 
   ##
 
-- 🔭 I’m currently close to finish Trybe course (Full Stack Web Development) and looking for a job, preferencially an international Web Development Job
-- 📕 I'm certified in: <img align="center" alt="Thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Thiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Thiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Thiago-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> <img align="center" alt="Thiago-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Thiago-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="Thiago-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-- 📖 I’m currently learning OOP at Trybe course
+- 🔭 I’m currently leading the development team of Resolva Meu Look
+- 📕 I'm experienced in: <img align="center" alt="Thiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Thiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Thiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Thiago-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> <img align="center" alt="Thiago-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Thiago-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="Thiago-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 <div align="center">
   <img height="165px" margin-right="100px" src="https://github-readme-stats.vercel.app/api?username=thiagoacmonteiro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -23,7 +22,7 @@
  
 </div>
 
-# My main Front-End repositories
+# Some minor projects I did to have fun. The best is private.
 ## Click on the link to go to the page or on the container to go to the repository
   
  
@@ -50,9 +49,6 @@ https://my-tunes-omega.vercel.app
 <a href="https://github.com/thiagoacmonteiro/MyTunes"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=MyTunes&theme=chartreuse-dark"/>
 
 #
-#
-  
-# My main Back-End repositories
   
 <a width="300em" href="https://github.com/thiagoacmonteiro/project-store-manager"><img width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoacmonteiro&repo=project-store-manager&theme=chartreuse-dark"/>
   
